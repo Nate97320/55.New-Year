@@ -1,4 +1,4 @@
-## New Year Countdown
+## Countdown
 
 Landing page that counts down from the current date to the next new year
 
